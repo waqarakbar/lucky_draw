@@ -1,3 +1,12 @@
+## How to use
+Step 1: Clone the project
+Step 2: cd to porject directory and run "composer install" to install dependencies
+Step 3: Import DB/lucky_draw.sql and add DB credentials to .env
+Step 4: run "php artisan zing:rundraw" to run the draw, winners table will be populated with randomly selecting a winner from contestants against each plot
+
+------------------------------------------------------------------
+
+
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
 <p align="center">
