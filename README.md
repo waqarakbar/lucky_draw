@@ -1,8 +1,8 @@
 ## How to use
-Step 1: Clone the project \n
-Step 2: cd to porject directory and run "composer install" to install dependencies \n
-Step 3: Import DB/lucky_draw.sql and add DB credentials to .env \n
-Step 4: run "php artisan zing:rundraw" to run the draw, winners table will be populated with randomly selecting a winner from contestants against each plot
+    - Step 1: Clone the project
+    - Step 2: cd to porject directory and run "composer install" to install dependencies
+    - Step 3: Import DB/lucky_draw.sql and add DB credentials to .env
+    - Step 4: run "php artisan zing:rundraw" to run the draw, winners table will be populated with randomly selecting a winner from contestants against each plot
 
 ------------------------------------------------------------------
 
